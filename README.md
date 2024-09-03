@@ -33,14 +33,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SkipperSahil GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkipperSahil&show_icons=true&hide_border=true" />
+  <img align="left" alt="SahilHirpara45 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SahilHirpara45&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="SkipperSahil GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkipperSahil"/>
+<img align="left" alt="SahilHirpara45 GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHirpara45"/>
 
 </details>
 
